@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lab Exotics]]></title>
+        <description><![CDATA[Lab Exotics]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jul 2016 03:43:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Something wonderful happens when people and animals connect. A bond is created that words cannot describe and only those involved in the bond truly understand how important it is. We believe in breeding happy and healthy animals and delivering the best customer service in the industry.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1740b2a9496d00edccb9800230fa4303/noop?input=http%3A%2F%2Fnebula.wsimg.com%2F7df24c069fb0f2f36f2da02a22f1c621%3FAccessKeyId%3DCE5A23B340A8064E64C8%26disposition%3D0%26alloworigin%3D1"></article>]]></description>
+            <link>http://www.labexotics.com/home.html</link>
+            <guid isPermaLink="false">655a42cf-1829-45c9-b03a-7a507a11e3b9</guid>
+            <pubDate>Mon, 04 Jul 2016 03:42:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
