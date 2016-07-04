@@ -1,0 +1,14 @@
+layout_spectrum: 0.39859241736121476
+typography_spectrum: 0.6874696540180594
+color:
+  brandStrength: 0.1844303805846721
+  lightness: 0.2407212546095252
+  saturation: 0.005120434332638979
+  rhythmicContrast: 0.2300839179661125
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Lab Exotics
