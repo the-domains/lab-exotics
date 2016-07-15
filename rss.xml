@@ -4,8 +4,15 @@
         <description><![CDATA[Lab Exotics]]></description>
         <link>https://thegrid.ai/lab-exotics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 07:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 07:12:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lab-exotics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Something wonderful happens when people and animals connect. A bond is created that words cannot describe and only those involved in the bond truly understand how important it is. We believe in breeding happy and healthy animals and delivering the best customer service in the industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a25f8c01151dc38d2c4c03841645885bb28d8658"></article>]]></description>
+            <link>http://www.labexotics.com/</link>
+            <guid isPermaLink="false">a099f80e-b90c-4bfa-9170-316be01adc0f</guid>
+            <pubDate>Fri, 15 Jul 2016 07:11:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact]]></title>
             <description><![CDATA[<article><h1>Contact</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3cce3644b7fcbf63fa5ab042c59fbad5/noop?input=http%3A%2F%2Fnebula.wsimg.com%2F9b15f83612549e2255a047c4f494c76f%3FAccessKeyId%3DCE5A23B340A8064E64C8%26disposition%3D0%26alloworigin%3D1"></article>]]></description>
@@ -65,13 +72,6 @@
             <description><![CDATA[<article><h1>About</h1><p>We believe in breeding happy and healthy animals and delivering the best customer service in the industry. We are confident that the pets that we breed will become loving members of your family for years to come.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5569bfd9a840dbb2062c7e58c4d45b93/noop?input=http%3A%2F%2Fnebula.wsimg.com%2Fcaf6631ddd517c44c499dba032f7931b%3FAccessKeyId%3DCE5A23B340A8064E64C8%26disposition%3D0%26alloworigin%3D1"></article>]]></description>
             <link>http://www.labexotics.com/about.html</link>
             <guid isPermaLink="false">186bf4bf-9188-4cf8-9a25-062274f58e06</guid>
-            <pubDate>Fri, 15 Jul 2016 05:21:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>Something wonderful happens when people and animals connect. A bond is created that words cannot describe and only those involved in the bond truly understand how important it is. We believe in breeding happy and healthy animals and delivering the best customer service in the industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a25f8c01151dc38d2c4c03841645885bb28d8658"></article>]]></description>
-            <link>http://www.labexotics.com/home.html</link>
-            <guid isPermaLink="false">36dcc0cb-ba86-467c-bc36-6a8d297794ba</guid>
             <pubDate>Fri, 15 Jul 2016 05:21:14 GMT</pubDate>
         </item>
     </channel>
