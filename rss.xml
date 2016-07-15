@@ -2,13 +2,19 @@
     <channel>
         <title><![CDATA[Lab Exotics]]></title>
         <description><![CDATA[Lab Exotics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lab-exotics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 03:43:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jul 2016 05:21:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lab-exotics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/groups/1816618625229890/</link>
+            <guid isPermaLink="false">d63e3835-82f1-4780-bbc7-c36cdd04d077</guid>
+            <pubDate>Fri, 15 Jul 2016 05:21:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>Something wonderful happens when people and animals connect. A bond is created that words cannot describe and only those involved in the bond truly understand how important it is. We believe in breeding happy and healthy animals and delivering the best customer service in the industry.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1740b2a9496d00edccb9800230fa4303/noop?input=http%3A%2F%2Fnebula.wsimg.com%2F7df24c069fb0f2f36f2da02a22f1c621%3FAccessKeyId%3DCE5A23B340A8064E64C8%26disposition%3D0%26alloworigin%3D1"></article>]]></description>
+            <description><![CDATA[<article><h1>Home</h1><p>Something wonderful happens when people and animals connect. A bond is created that words cannot describe and only those involved in the bond truly understand how important it is. We believe in breeding happy and healthy animals and delivering the best customer service in the industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a25f8c01151dc38d2c4c03841645885bb28d8658"></article>]]></description>
             <link>http://www.labexotics.com/home.html</link>
             <guid isPermaLink="false">655a42cf-1829-45c9-b03a-7a507a11e3b9</guid>
             <pubDate>Mon, 04 Jul 2016 03:42:53 GMT</pubDate>
